@@ -1,0 +1,98 @@
+/* Admin Smart Talk */
+.AdminTalksElectionsTop3 .put2Archive div{
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+/* Elections */
+.electionsTopBar .electionsTopBarSelect p{
+  background: #3F51B5;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  padding: 5px;
+}
+.electionsTop3{
+  position: relative;
+  padding: 30px;
+  border-radius: 5px;
+  background-color: #104556e0;
+}
+.electionsTop3 h6{
+  font-size: 25px;
+}
+.top3Topic{
+  margin: 10px 0px;
+}
+.top3Topic .row{
+  background: #14566b;
+  margin-left: 5px;
+  padding: 10px 5px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+.submitButtonElections{
+  text-align: right;
+  margin-top: 20px;
+}
+.submitButtonElections button{
+  padding: 5px 30px;
+  border-radius: 5px;
+}
+.electionsTop3Form textarea{
+  height: 140px;
+  background: white;
+  color: black;
+  margin-top: 25px;
+}
+.selectedTopic{
+  background: linear-gradient(300deg, rgba(243,145,0,0.9) 0%, rgba(240,82,81,0.9) 100%)!important;
+}
+.electionDeadline{
+  background: linear-gradient(300deg, rgba(243,145,0,0.9) 0%, rgba(240,82,81,0.9) 100%)!important;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+.elections .projectsHeadTitle {
+  position: relative;
+}
+.ElectionsSelectionBox{
+  width: 700px;
+}
+.electionsTopBar{
+  width: 700px;
+}
+.ideationStage.electionTopics{
+  width: 100%;
+}
+.topicIdeas{
+  position: relative;
+  padding: 30px;
+  border-radius: 5px;
+  background-color: #104556e0;
+  width: 850px;
+}
+.talkSideNavbar ul{
+  background-color: #104556e0;
+  padding: 15px 5px;
+  border-radius: 5px;
+  max-width: 150px;
+}
+.talkSideNavbar li{
+  list-style: none;
+  text-align: center;
+}
+.adminElections .greenBack{
+  width: 500px;
+}
+.adminElections .topicbox{
+  display: initial;
+}
+.adminElections .addAnotherTopic{
+  margin-top: 20px;
+}
